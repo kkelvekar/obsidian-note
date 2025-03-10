@@ -1,0 +1,182 @@
+{
+  "main": {
+    "id": "340b12d95eb4b654",
+    "type": "split",
+    "children": [
+      {
+        "id": "3dbc014e568d4892",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3812318ebecb93d8",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2abab5a5c7b225af",
+    "type": "split",
+    "children": [
+      {
+        "id": "7a7b98f173882bf6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "34ed7d44d37a4bec",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "593375e7da21d959",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "0ef525b3e7802b2e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "32a213430d2645d5",
+    "type": "split",
+    "children": [
+      {
+        "id": "bc08803d0a21e97a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "45d0645700e22b50",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CSharp Code Interview Questions/Game Platform.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Game Platform"
+            }
+          },
+          {
+            "id": "8d8421f0bddc86fa",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "CSharp Code Interview Questions/Game Platform.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Game Platform"
+            }
+          },
+          {
+            "id": "f3c9811e06247c75",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "8ecfdbbf6abebe91",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "CSharp Code Interview Questions/Game Platform.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Game Platform"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "publish:Publish changes...": false,
+      "github-sync:Sync with Remote": false
+    }
+  },
+  "active": "3812318ebecb93d8",
+  "lastOpenFiles": [
+    "Techniques for CSharp Code Interview/Array Traverse.md",
+    "CSharp Code Interview Questions/Malware Analysis.md",
+    "Techniques for CSharp Code Interview",
+    "CSharp Code Interview Questions/Game Platform.md",
+    "CSharp Code Interview Questions/Images/Pasted image 20250309232802.png",
+    "CSharp Code Interview Questions/Images/Pasted image 20250309204803.png",
+    "CSharp Code Interview Questions/Images",
+    "CSharp Code Interview Questions",
+    "Untitled.canvas",
+    "2025-03-09.md"
+  ]
+}
